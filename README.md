@@ -29,14 +29,18 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-0928&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Neeraj-0928&theme=tokyonight" height="150"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neeraj-0928&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-0928&layout=compact&theme=tokyonight" height="150"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neeraj-0928&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neeraj-0928&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neeraj-0928&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
